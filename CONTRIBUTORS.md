@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MihirKumar](https://github.com/itsmihir007)
+- Place: Chandigarh,India
+- Bio: Full stack Web Developer and Java
+- Github: [MihirKumar](https://github.com/itsmihir007)
